@@ -1,0 +1,2712 @@
+'d 4 16 
+'ll 79 
+'m 54 
+'re 28 
+'s 3 4 8 10 12 16 18 23 25 26 28 29 32 44 45 47 48 54 55 59 60 62 63 70 79 
+'ve 18 
+'we 28 
++Bahia 1 
+.125 10 
+0.39 1 
+0.6 54 
+0.7 54 
+0.75 22 
+0.9 54 
+0.99 5 
+1 9 42 
+1,001,430 46 
+1,142,000 74 
+1,428,000 38 
+1,545,160 27 
+1,655.8 6 
+1,750 1 
+1,780 1 
+1,850 1 
+1,850,000 46 
+1,870 1 
+1,875 1 
+1,880 1 
+1-1/8 26 
+1.00 23 
+1.06 1 38 
+1.1 38 
+1.10 40 
+1.12 65 
+1.19 11 45 
+1.21 27 
+1.22 38 42 
+1.24 5 
+1.25 1 
+1.27 18 
+1.28 40 
+1.3 66 
+1.35 5 
+1.4 18 66 
+1.5 38 54 57 
+1.50 10 
+1.53 18 27 
+1.56 5 
+1.59 14 
+1.6 33 
+1.65 5 
+1.92 5 
+1/8 4 16 
+10 7 24 39 45 80 
+10.0 6 
+10.1 45 
+10.6 26 74 
+100 5 35 59 
+100,000 79 
+100.9 6 
+102.5 7 
+104,606,000 66 
+107.3 6 
+107.77 58 
+108 60 
+109 47 
+11 6 13 24 
+11-1/2 4 16 
+11-5/8 45 
+110,311,000 66 
+111.8 6 
+112-1/2 59 
+114 80 
+117,866 69 
+117.6 6 
+119.05 19 
+12 4 6 13 16 24 33 41 42 47 66 75 
+12.2 64 
+12.6 14 
+120 59 
+121,168 69 
+125 59 
+125,000 70 
+13 23 36 49 71 
+13,555,000 66 
+13.0 6 
+13.2 6 
+13.5 3 
+131.4 41 
+132,000 11 
+132-1/2 59 
+135 59 
+137-1/2 59 
+138.9 41 
+14,635,000 66 
+14.5 6 29 
+14.8 54 
+145.3 6 
+149 39 
+149.8 6 
+15 1 12 24 40 49 51 
+15-20 4 16 
+15.0 6 
+15.75 34 
+15.8 14 
+15.9 6 74 
+150 47 
+151.1 13 56 
+151.9 58 
+155,221 1 
+16,000 24 
+16,568,000 69 
+16.0 74 
+16.1 24 
+16.2 79 
+16.9 74 
+164.6 6 
+165 79 
+166.1 6 
+17 37 
+170 79 
+18 37 80 
+18.6 40 
+182.4 6 
+184,649,000 65 
+186,790,000 66 
+19 5 41 
+19.5 27 
+19.6 37 
+19.7 54 
+195 80 
+1960s 39 
+1976 79 
+1978 29 
+198 58 
+1981 5 
+1983 45 
+1984 5 47 
+1985 11 15 27 40 47 74 
+1985/86 6 
+1986 5 6 12 13 18 19 27 40 41 45 46 47 56 74 
+1986/87 1 6 
+1987 8 9 24 26 40 46 54 56 57 60 61 
+1987/88 1 
+1988 18 23 26 28 
+1989 26 70 
+1990 51 
+1991 61 70 
+1997 35 
+2,129,300 33 
+2,188,933 27 
+2,227,000 13 
+2,285,000 13 
+2,325 1 
+2,330,000 24 
+2,332,397 38 
+2,375 1 
+2,380 1 
+2,400 1 
+2,516,000 37 
+2,692.4 6 
+2,858,000 11 
+2,986,000 13 
+2-1/2 59 
+2.0 6 
+2.15 60 
+2.27 1 
+2.28 1 
+2.34 5 
+2.4 12 
+2.40 5 
+2.52 40 
+2.55 5 
+2.58 45 
+2.6 41 
+2.65 5 
+2.7 41 
+2.70 4 16 
+2.72 65 
+2.727 62 
+2.9 38 64 
+2/26 49 
+2/27 49 
+20 7 18 23 26 27 40 41 51 
+20.0 6 
+20.4 6 
+20.9 37 
+200 4 16 
+200,000 10 79 
+203,000 24 
+21 26 
+21,782,929 69 
+21.1 6 
+21.6 23 
+211 47 
+212.5 58 
+213,470,000 65 
+215,000 37 
+218.5 6 
+22 1 37 
+22,345,718 69 
+22.2 38 
+220,838 34 
+226,653,000 66 
+23 5 9 
+23.6 6 
+236.90 58 
+24 62 74 
+24.2 74 
+24.5 6 
+25 5 9 45 49 62 69 
+25,459,238 69 
+25,873,904 69 
+25.1 6 
+25.137 62 
+25.2 27 
+25.7 38 
+25.780 62 
+250 47 
+26 4 16 49 61 
+26.2 74 
+264.2 65 
+27 1 24 45 49 66 
+28 1 12 23 47 
+28.3 73 
+28.507 62 
+29 59 66 
+29-3/8 45 
+29.289 62 
+290.9 65 
+291.8 13 56 
+298.5 13 
+299.2 11 
+3,035,000 37 
+3,320,000 74 
+3,376,000 13 
+3,971,000 24 
+3.03 48 
+3.07 14 23 
+3.08 14 23 
+3.09 65 
+3.15 5 
+3.2 6 
+3.25 5 
+3.25-Y 5 
+3.47 29 
+3.66 66 
+3.69 72 
+3.7 6 
+3.8 45 
+3.98 50 
+30 18 42 45 56 57 74 
+30-40 56 
+30.5 72 
+300 61 
+31 3 23 36 46 49 53 56 
+315.2 14 
+32 45 
+32.9 6 
+320 60 
+327.2 11 
+33.7 6 
+336.63 80 
+337 23 
+337.3 14 
+34 11 18 37 
+34.8 6 
+340 1 
+35 1 15 23 49 53 56 
+350 1 
+356 58 
+36 18 
+37 23 28 
+37,000 19 
+37.4 6 
+375 80 
+39 27 49 
+39.9 6 
+4 49 
+4,104,000 13 
+4,161.0 6 
+4,340 1 
+4,345 1 
+4,350 1 
+4,351 1 
+4,400 1 
+4,415 1 
+4,450 1 
+4,480 1 
+4,647,000 37 
+4,790,000 7 
+4,841,000 13 
+4.06 29 
+4.10 66 
+4.15 29 
+4.151 62 
+4.45 5 
+4.65 5 
+40 10 18 26 39 51 79 
+400-500 79 
+41 49 
+41.1 13 
+42 24 
+43.4 13 
+440.3 11 
+442,000 13 
+446 79 
+45 1 38 51 
+45-50 56 
+45.00 74 
+45.1 6 
+46 41 66 
+46,254 46 
+467,000 41 
+47.1 66 
+47.2 66 
+472.3 11 
+479.7 11 
+48,741,000 65 
+48.0 6 
+48.6 6 
+48.7 6 
+49 79 
+4th 11 41 74 
+5,050,044 27 
+5,086,000 13 
+5,988 46 
+5.1 54 
+5.36 5 
+5.4 54 
+5.50 70 
+5.54 5 
+5.81 1 
+5.86 74 
+5.92 74 
+5.93 1 
+5/14/82 5 
+50 27 
+50,000 10 79 
+500,000 57 
+51 41 54 79 
+51.6 13 
+51.7 13 
+510.2 11 
+529,300 33 
+540,000 79 
+55 2 28 79 
+55,000 24 
+55,513,000 65 
+55.8 6 
+556.7 41 
+558.9 41 
+569.3 13 
+57.7 54 
+58 38 
+6 5 
+6,306,0000 41 
+6,635,318 27 
+6.13 1 
+6.2 1 
+6.20 74 
+6.3 6 
+6.4 1 
+6.50 70 
+6.7 61 
+6.8 6 
+6.9 54 
+60 1 17 
+600 63 
+61.5 6 
+61.8 6 
+62.94 58 
+630 56 
+64 41 
+65 32 55 
+65.06 80 
+65.89 80 
+66 14 22 
+66.0 23 
+66.19 58 
+66.2 14 23 
+67 51 
+67.1 12 
+67.62 50 
+68,004,000 65 
+69,127,000 65 
+7,041,000 41 
+7,075,000 24 
+7-1/2 59 
+7.0 6 
+7.15 48 
+7.20 48 
+7.5 3 36 54 
+7.7 26 
+7.9 6 38 
+7/1/82 5 
+70 32 55 
+71.6 50 
+72 24 65 
+72,000 24 
+720.4 58 
+73 14 
+75 10 
+753 1 
+76.1 6 
+77 79 
+77.4 27 
+785 1 
+8,843,000 41 
+80 65 
+80.8 6 
+807,000 11 
+82 12 
+82.7 6 
+829,000 38 
+833,334 70 
+84,250 69 
+848,600 27 
+87.4 6 
+872.0 6 
+9 4 16 46 
+9,140,000 40 
+9.0 6 
+9.4 38 
+9.9 54 
+90 74 
+91 58 
+92 58 
+92.2 27 
+93.4 37 
+98.7 37 
+98.8 74 
+992.9 65 
+995 1 
+997.1 14 
+A 4 16 23 26 28 51 54 79 
+AM 56 
+AXP 25 
+About 8 
+Act 61 
+Administration 63 
+Adviser 28 
+Again 1 
+Agency 28 72 
+Agriculture 5 19 46 57 
+Air 73 
+Alan 32 55 
+All 57 
+Although 4 16 28 47 
+America 2 50 51 74 79 
+American 25 28 44 79 
+Amos 79 
+Analyst 45 
+Analysts 28 
+And 26 
+Angeles 28 
+Announced 47 
+Annual 24 
+Any 45 
+Applied 64 
+Apr 6 
+April 9 12 19 23 24 37 42 71 75 
+April/May 1 
+Arbitrageurs 45 
+Argentina 1 60 
+Argentine 6 
+Arrivals 1 
+Arsenio 4 16 
+Arthur 4 16 
+Arvin 52 
+Assets 11 58 
+Association 29 69 74 
+Atico 74 
+Aug 1 
+Aug/Sept 1 
+Australia 18 
+Average 49 
+Avg 13 38 65 66 
+Avge 5 
+B 23 
+B-1B 73 
+BA-1 8 
+BAA-3 8 
+BP 2 
+BP/Standard 2 
+BPCL.L 79 
+BSC 21 
+Backlog 49 
+Baglini 60 
+Bahia 1 
+Baker 52 
+Balances 62 
+Ball 45 
+Bancorp 4 16 
+Bancshares 3 
+Bank 48 80 
+Bank-Houston 3 
+BankAmerica 4 16 
+Banking 4 16 
+Bankruptcy 44 
+Banks 74 
+Barley 5 
+Based 70 
+Bean 1 
+Bear 21 
+Because 12 
+Bentsen 61 
+Bill 54 
+Birr 4 16 
+Blenders 18 
+Bob 61 
+Both 45 
+Brazil 4 16 18 26 47 60 
+Brazilian 1 4 16 
+Bread 6 
+Brent 28 
+Brian 40 
+Britain 79 
+British 2 79 
+Brookings 28 
+Brothers 25 35 
+Brown-Forman 23 
+Burlington 72 
+But 10 28 29 43 47 54 
+Buyers 1 
+By 20 26 32 55 
+CCC 19 57 
+CCX 34 
+CHEM 45 
+CWT 5 
+Cake 1 
+Call 5 
+Canada 18 79 
+Canadian 63 79 
+Canal 49 
+Capital 21 54 
+Casey 28 
+Caspar 28 
+Cazenove 34 
+Central 28 
+Chairman 18 61 
+Champion 9 
+Charles 51 
+ChemLawn 45 
+Chicago 18 59 
+Chile 26 
+China 43 67 
+Chinese 67 
+Chris 20 
+Citibank 26 
+City 72 
+Class 23 
+Co 2 4 8 12 16 18 21 22 25 39 70 
+Co. 18 
+CoFAB 68 
+Cocoa 1 
+Coffee 42 75 
+Cohn 4 16 
+Comissaria 1 
+Commerce 3 54 
+Commercial 80 
+Commission 1 4 7 16 28 35 49 
+Committee 61 
+Commodity 19 57 
+Communications 4 16 79 
+Companies 45 
+Company 19 58 
+Comptroller 3 
+Computer 10 
+Congress 28 51 61 
+Copper 22 
+Corn 5 
+Corp 4 8 15 16 18 21 22 35 44 45 67 70 73 74 79 
+Corporation 19 57 
+County 3 
+Court 44 
+Covertible 1 
+Cranston 32 55 
+Credit 19 57 
+Crowley 44 
+Cruzado 47 
+Currency 3 
+Customers 17 
+Customs 46 
+Cwt 5 
+D 66 
+D-Cal 32 55 
+D-Conn 20 
+D-Ill 61 
+D-Tex 61 
+Daily 79 
+Dan 61 
+Daniel 4 16 32 55 
+Data 54 
+David 54 
+Dean 18 54 
+Debra 45 
+Debtor 60 
+Dec 1 
+December 18 28 29 46 48 54 
+Decontrol 32 55 
+Defense 28 32 55 72 
+Delivery 59 
+Democrat 28 
+Democratic 28 
+Democrats 28 
+Department 5 19 32 46 54 55 57 
+Deposits 11 
+Deputy 60 
+Destinations 1 
+Development 67 70 
+Director 28 
+Distribution 42 
+Dividend 37 
+Dlrs 48 
+Dlrs/Bu-Sorghum 5 
+Dodd 20 
+Dole 51 
+Dominion 66 
+Donald 28 54 
+Donohue 79 
+Dot 10 
+Douglas 18 
+Du 39 
+Due 49 
+Duncan 61 
+E.B.I 18 
+ESOPs 61 
+Earlier 56 
+Easter 54 
+Eastern 32 55 
+Economists 54 
+Edmund 28 
+Elgin 18 
+Elkhart 70 
+Elliott 45 
+End 49 
+End-Day 49 
+English 79 
+English- 79 
+Enhancement 17 19 
+Enterprise 28 
+Eurodollar 26 
+Evans 32 52 55 
+Excelan 33 
+Exchange 4 7 16 35 59 79 
+Export 19 
+Express 25 
+FOB 1 
+Farm 51 
+Feb 6 62 69 
+February 1 4 5 6 12 16 26 47 80 
+Fed 54 
+Federal 62 74 80 
+Federally 50 
+Fenner 4 16 25 
+Field 8 
+Final 1 
+Finance 61 63 
+Financial 2 4 16 63 
+First 4 16 35 50 
+Foods 18 
+For 47 56 
+Force 51 73 
+France 79 
+Francisco 67 
+French 79 
+Friday 26 
+Fund 50 
+George 28 43 
+Given 54 
+Graphics 56 
+Grassley 51 
+Group 4 16 
+Guaranteed 50 
+Gulf 59 64 
+Gulfex 68 
+Harris 3 56 
+He 4 16 18 54 60 61 79 
+Health 17 
+Hess 28 
+His 43 
+Homes 70 
+Honduras 57 
+House 20 28 61 
+Houston 10 
+Houston-based 68 
+Howard 18 
+Hughes 21 
+Hughes/Conserdyne 21 
+I 4 5 16 32 45 54 55 61 79 
+ICO 42 75 
+II 5 
+III 5 
+INc 67 
+IV 5 
+If 61 
+Illinois 59 
+In 1 18 28 45 47 54 61 63 79 
+Inc 2 3 8 9 10 12 15 17 18 21 23 25 33 34 44 45 52 56 64 66 68 70 72 74 79 
+Inc. 35 45 54 
+Including 80 
+Increases 54 
+Ind. 70 
+Industries 44 52 72 
+Ingalls 45 
+Inland 70 
+Inns 7 
+Institute 28 58 
+Institution 28 
+Intelligence 28 
+Intergroup 15 
+International 42 56 67 73 75 
+Interstate 4 16 
+Investment 58 
+Investors 8 
+Iran 28 43 
+It 4 7 12 15 16 18 26 28 54 56 64 69 79 
+James 52 
+Janney 70 
+January 1 4 5 16 29 46 48 54 56 74 
+January-December 46 
+Japan 18 
+John 28 29 61 
+Joliet 59 
+Joseph 4 16 
+Journal 79 
+Jul 6 
+July 1 5 
+Jun 6 
+June 56 
+June/July 1 
+Kan. 51 
+Kenneth 18 
+Kevlar 39 
+Kingdom 18 
+L.K 52 
+L.P 15 
+L.P. 15 45 
+Larsen 18 
+Lawrence 4 16 
+Le 79 
+Leader 51 
+Legislation 20 
+Lehman 25 35 
+Level 5 
+Limited 7 
+Lines 44 
+Linoil 6 
+Linseed 6 
+Lion 7 
+Liquor 1 
+Lloyd 61 
+Loan 5 74 
+Loans 11 
+Logistics 72 
+Los 28 
+Louis 59 
+Lower 59 
+Ltd 18 
+Lugano 10 
+Lynch 4 16 25 
+MAr 6 
+MCD 18 
+MER 25 
+Magma 22 
+Maize 6 
+Majority 51 
+Management 45 
+Mar 6 
+Marathon 8 
+March 1 6 23 24 26 36 37 45 53 59 70 71 
+March-May 19 
+March/April 1 
+Mariotime 44 
+Markets 54 
+Matane 79 
+Matrix 10 
+Mattress 12 
+Maude 54 
+Maxwell 79 
+May 1 6 18 59 
+McDonalds 18 
+McLean 44 
+Means 61 
+Memphis/Cairo 59 
+Menswear 72 
+Merchants 59 
+Merrill 4 16 25 
+Mexico 4 16 26 
+Michael 63 
+Midland 54 
+Milk 18 
+Miller 4 16 
+Mining 22 
+Minister 63 
+Mirror 79 
+Mississippi 59 
+Montagu 54 
+Montgomey 70 
+Montreal 79 
+Moody 8 
+Morbelli 45 
+Mortgage 50 
+Muskie 28 
+N.V. 10 
+N.Z 48 
+NAR 29 
+NCNB 74 
+NOTE 13 24 27 37 41 66 74 
+NSPA 69 
+NYT.A 79 
+National 15 17 28 29 69 80 
+Natl 5 
+Net 11 14 24 27 37 38 41 65 66 74 
+Network 34 
+Nevertheless 4 16 
+New 1 26 48 60 72 79 80 
+Newmont 22 
+Next 59 
+Nine 14 
+No 59 
+North 2 19 49 79 
+Note 11 
+Noting 12 
+November 28 29 43 54 
+O'Malley 40 
+Oats 5 
+Oct 5 
+Oct/Dec 1 
+October 47 
+Ohio 12 59 
+Oil 2 8 
+Oilseed 6 
+On 59 
+Oper 13 
+Organization 42 75 
+Ottawa 63 
+Our 32 55 
+Over 49 
+Owensboro/south 59 
+Packwood 61 
+Pan 74 
+Panama 49 
+Parliament 63 
+Parliamentary 63 
+Partners 15 
+Partnership 7 
+Party 60 
+Pay 36 71 
+Payable 53 
+Peladeau 79 
+Peninsula 74 
+People 54 
+Per 13 
+Permian 15 
+Petroleum 2 
+Pierce 4 16 25 
+Pierre 79 
+Pillsbury 19 
+Plata 60 
+Plc 2 
+Pont 39 
+Prescott 45 
+President 4 16 18 28 
+Price 5 
+Printing 79 
+Prior 23 
+Processors 69 
+Products 9 
+Program 19 
+Qtly 36 37 53 71 
+Quebec 79 
+Quebecor 79 
+Quotes 59 
+R-Iowa 51 
+R-Ore 61 
+R-Tenn 61 
+R-Wash. 32 55 
+REUTER 6 
+ROL 45 
+Radical 60 
+Radio 60 
+Rate-X 5 
+Rates 5 
+Ratings 8 
+Raul 60 
+Reagan 28 43 
+Realtors 29 
+Record 36 53 71 
+Red 7 
+Reform 61 
+Regan 28 
+Regular 49 
+Release 5 
+Rep 61 
+Reporting 69 
+Republican 28 51 61 
+Research 56 
+Reserve 48 62 80 
+Reserves 5 
+Resources 54 66 
+Results 13 27 
+Resumption 42 
+Return 40 
+Reuter 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 74 75 79 
+Reuters 28 51 79 
+Rev 41 
+Revenues 56 
+Revs 13 14 24 27 37 65 66 74 
+Reynolds 54 
+River 59 
+Robert 25 51 79 
+Rockwell 73 
+Rollins 45 
+Rosemarie 45 
+Rostenkowski 61 
+Routine 1 
+Rural 51 
+Ryan 18 
+SEC 4 16 
+SUBPRODUCTS 6 
+SVM 45 
+Sales 29 38 
+San 67 
+Savings 74 
+Scheduled 49 
+Schlang 45 
+Schneider 28 
+Schult 70 
+Scott 70 
+Scowcroft 28 
+Sealy 12 
+Secretary 28 43 
+Securities 4 7 16 35 
+Security 28 
+Sedio 10 
+Sen 61 
+Sen. 20 51 
+Senate 20 28 51 61 
+Sens 32 55 
+Sept 1 61 
+Sept/Dec 59 
+Sept/Nov 59 
+September 42 57 70 
+Service 8 46 
+ServiceMaster 45 
+Several 4 16 
+Shanghai 67 
+Shares 45 
+She 45 
+Shearson 25 35 
+Showers 1 
+Shr 11 14 24 27 37 38 41 65 66 74 
+Shultz 28 43 
+Six 13 
+Smith 1 4 16 25 
+Snyder 45 
+Software 67 
+Some 4 16 
+Sorghum 5 6 
+South 44 49 
+Soybean 6 69 
+Springboard 67 
+St 59 
+Stable 40 
+Standard 2 40 
+State 28 43 
+States 44 
+Stearns 21 25 
+Steel 70 
+Stephen 28 
+Stephens 34 
+Stock 79 
+Street 45 
+Strohmaier 45 
+Such 4 16 
+Sugar 46 
+Sullivan 54 
+Sunflowerseed 6 
+Sunoil 6 
+Super 49 
+Sutro 4 16 
+Switzerland 10 
+Systems 10 17 
+Tankers 49 
+Task 51 
+Tax 61 
+Technologies 64 
+Technology 67 
+Terminal 10 
+Terms 44 
+Test 17 
+Tex 10 
+Texas 3 28 
+The 1 2 3 4 5 6 7 8 9 10 12 15 16 17 19 21 23 26 28 29 34 35 39 45 46 47 49 51 54 56 57 61 62 70 75 79 
+There 1 79 
+They 26 28 70 
+This 28 45 79 
+Thursday 63 
+Times 28 79 
+Total 1 
+Tower 28 43 
+Trade 1 
+Trading 2 
+Transit 49 
+Transport 44 
+Treasury 62 
+Trustco 40 
+Tuccillo 29 
+Turben 45 
+Two 50 
+U.S. 1 5 19 32 44 45 46 49 54 55 57 69 79 
+USX 8 
+Under 51 
+Union 35 
+United 18 44 
+Urban 70 
+Uruguay 1 
+V 5 
+VI 5 
+Vegetable 6 
+Venezuela 26 
+Venezuelan 26 
+Vessels 49 
+Vice 4 16 
+Virginia 66 
+WNX 45 
+Wall 45 
+Washington 28 43 
+Waste 45 
+Ways 61 
+We 28 32 55 
+Weinberger 28 
+West 18 
+What 28 
+Wheat 5 6 
+When 79 
+While 26 28 
+White 28 
+William 28 
+Williams 4 16 
+Wilson 4 16 63 
+With 1 4 16 54 
+Witter 54 
+Woodco 10 
+Woolcott 70 
+Wyss 54 
+X 5 
+X-1986 5 
+Y-dlrs 5 
+Yates 8 
+Year 11 27 37 38 65 74 
+Yemen 19 
+York 1 26 60 72 79 80 
+You 43 
+Zealand 48 
+a 1 2 4 7 8 9 10 12 15 16 17 18 20 21 22 23 25 26 28 29 32 34 35 39 40 41 42 43 45 47 48 49 50 51 54 55 56 60 61 63 64 67 68 69 70 72 73 74 79 
+able 28 
+about 4 16 20 28 45 56 79 
+abroad 47 
+absorbant 39 
+absorbs 39 
+acceptances 80 
+accepted 19 
+access 32 55 
+accompanied 47 
+accordance 61 
+according 39 
+accordingly 46 
+account 47 
+accounts 62 
+acknowledge 26 
+acknowledged 43 54 
+acquire 10 
+acquired 15 45 56 68 
+acquiring 79 
+acquisition 7 18 25 70 74 79 
+acquisitions 12 18 25 
+acres 51 
+act 4 16 18 63 
+action 57 63 
+actions 32 55 
+activities 2 32 55 
+actual 46 54 
+added 8 54 60 61 64 
+adding 79 
+additional 10 63 
+address 28 
+adjusted 29 46 
+adjustment 27 
+administration 43 
+administrative 12 
+adopted 61 
+adversaries 32 55 
+adversely 54 
+advertisers 79 
+advisory 26 
+affair 28 43 
+affect 75 
+affected 8 
+after 1 4 5 13 16 18 26 41 43 61 75 
+afternoon 4 16 26 45 
+again 28 59 
+against 1 28 
+agency 49 
+agenda 28 
+ago 48 56 69 
+agreed 26 44 54 
+ahead 79 
+all 1 20 26 45 47 61 
+allegedly 28 
+alleviating 1 
+allocated 56 
+allowed 61 
+allows 61 
+almost 1 
+alone 18 
+along 4 7 16 
+already 28 79 
+also 1 2 6 9 10 18 26 28 54 69 79 
+alternate 21 
+although 1 
+aluminum 39 
+always 28 
+am 32 55 
+amid 47 
+among 28 75 
+amortization 26 
+amortizations 26 
+amounts 74 
+an 1 3 4 9 10 15 16 18 19 26 28 33 39 42 45 46 56 60 61 63 70 79 
+analyst 4 16 28 45 
+analysts 4 16 18 28 79 
+and 1 2 3 4 5 6 7 8 10 13 15 16 17 18 19 20 21 23 25 26 27 28 32 33 34 35 39 40 44 45 46 47 48 50 51 54 55 56 57 58 61 62 64 67 68 69 70 74 75 79 80 
+ann 18 
+anniversary 47 
+announce 79 
+announced 19 45 57 63 
+announcement 26 45 
+annual 9 24 29 40 47 
+annualized 56 
+annually 32 55 
+anonymity 28 
+another 45 56 79 
+anticipated 18 54 
+anvil 28 
+any 4 10 12 16 42 45 64 
+appealing 28 
+appeals 28 
+appears 8 
+application 3 45 
+appraisals 12 
+approval 4 16 26 28 44 63 
+approved 4 9 16 23 
+aramid 39 
+aramids 39 
+arbitrageur 45 
+arbitrageurs 45 
+are 1 10 20 21 23 26 32 33 40 44 45 46 54 55 56 79 
+area 79 
+areas 1 
+arm 20 
+armed 28 
+arms 28 43 
+around 1 4 16 20 28 
+arrangements 18 
+arranging 44 
+arrivals 1 
+arroba 1 
+as 1 4 5 6 9 12 15 16 21 23 25 28 42 43 45 47 54 60 61 79 
+asked 4 16 26 28 
+assessment 17 
+assets 3 40 44 
+association 69 
+at 1 4 7 9 10 16 20 26 33 34 40 45 46 47 54 56 59 60 62 70 79 
+attack 45 
+attempting 28 
+attract 45 
+attracted 43 
+auction 63 
+authority 32 55 63 
+authorized 9 
+available 1 5 11 17 
+average 5 
+averaged 47 
+averaging 47 
+avoid 28 47 61 
+awarded 19 
+backing 28 
+backlog 49 56 
+backlogs 54 
+bags 1 42 
+balance 56 60 62 
+balances 62 
+bank 3 4 16 26 47 
+banker 21 26 
+bankers 26 
+banking 3 4 16 
+banks 3 4 16 20 26 60 80 
+barge 59 
+barges 59 
+base 45 
+based 67 
+basis 39 42 46 56 
+be 1 2 4 7 10 12 15 16 17 18 19 23 26 28 35 42 44 45 47 51 54 56 57 61 64 75 79 
+bean 1 
+beans 57 
+became 28 
+because 4 16 26 28 54 
+been 1 18 20 26 28 29 42 45 46 47 52 54 57 60 
+before 20 28 45 75 
+beginning 56 
+behalf 34 
+behind 54 
+being 28 33 70 
+believe 4 16 
+believed 4 16 
+below 12 
+benefit 18 56 
+benefits 18 
+bent 54 
+best 20 
+better 32 55 
+between 26 45 51 
+beverage 23 
+bid 4 16 45 47 59 79 
+bid/107-1/2 59 
+bid/120 59 
+bid/127-1/2 59 
+bid/132-1/2 59 
+bid/135 59 
+bid/140 59 
+bid/145 59 
+bidder 45 
+bill 20 51 61 63 
+billion 3 4 8 14 16 18 26 40 47 48 58 60 61 62 65 66 80 
+bit 23 
+bleak 54 
+blender 18 
+bloc 32 55 
+blow 28 
+blows 28 
+board 6 9 23 28 45 
+bodies 44 
+bomber 73 
+bonus 19 
+booked 1 
+books 80 
+boost 32 55 
+borrow 63 
+borrowing 2 63 
+both 2 23 27 28 59 
+bottom 18 
+brackets 6 
+brain 28 
+breakthrough 26 
+broad 26 61 
+broke 43 
+broker-dealer 58 
+brokers 28 
+budget 62 
+build 79 
+building 28 
+bulletin 48 
+bureaucracy 28 
+bushels 69 
+business 15 27 54 62 80 
+businesses 34 54 
+but 26 28 43 45 47 54 79 
+butter 1 
+buy 10 79 
+buyers 79 
+buying 79 
+by 1 2 4 8 15 16 22 28 32 33 35 39 44 45 47 51 54 55 57 61 63 64 70 79 
+calculated 13 
+call 59 
+called 2 17 
+calls 61 
+came 28 
+can 28 32 43 55 
+canal 49 
+cancerous 28 
+capabilities 32 55 
+capacity 69 79 
+capital 9 12 29 50 54 56 
+capitalize 45 
+card 20 
+cards 20 
+care 45 
+carnival 1 
+carry 11 28 
+carryforwards 13 
+carryovers 64 
+case 28 
+cases 28 
+cash 23 45 62 
+catapulted 45 
+cathode 22 
+caused 54 
+cautioned 54 
+cells 21 
+cent 22 
+cents 22 
+certain 10 44 45 
+certificates 1 
+certification 28 
+chain 79 
+chains 79 
+chairman 28 52 61 
+chairmen 61 
+chalk 26 
+change 10 75 
+changing 45 54 
+chaos 28 
+charge 23 41 
+charters 44 
+chief 28 
+choosing 28 
+circulation 79 
+circumstances 4 10 16 
+cited 23 
+cities 79 
+citizens 79 
+city 79 
+classes 23 
+clean 28 
+clearly 28 
+cloth 72 
+co-sponsor 20 
+cocoa 1 
+coincidental 26 
+collapsed 47 
+come 1 
+coming 1 4 16 
+command 28 
+comment 43 
+commenting 28 
+commercial 45 60 
+commission 15 43 
+commitment 26 
+committed 79 
+committee 2 26 60 
+committees 61 
+commodities 19 
+common 9 10 15 23 33 40 70 74 
+companies 2 32 45 55 68 74 79 
+company 7 8 9 10 12 15 17 18 21 23 25 33 34 39 45 56 70 79 
+compared 46 48 54 56 62 69 
+comparison 59 
+competes 45 
+competing 45 
+complete 19 
+completed 10 44 
+computer 10 54 67 
+computer-generated 17 
+computer-related 33 
+computing 54 
+conceivably 4 16 
+concentrated 45 
+condition 17 
+conditions 4 10 16 20 40 44 
+conduct 28 
+conducting 12 
+conference 28 
+connection 12 70 
+consequences 28 
+conservation 51 
+consider 51 79 
+considerable 28 
+considerations 12 
+considering 29 
+consignment 1 
+consits 70 
+constitutional 28 
+consumers 20 42 
+contact 42 45 
+contains 61 
+contenders 28 
+continue 4 10 15 16 32 55 56 
+continued 1 23 28 
+continuing 54 
+contract 44 67 72 73 
+control 10 28 32 55 
+controlled 28 
+controls 32 55 
+conversion 4 16 
+convertible 1 4 15 16 
+convinced 32 55 
+cooling 68 
+copper 22 
+corn 57 
+corn/sorghum 5 
+corporate 23 
+corresponding 56 
+cost 61 79 
+costs 10 
+could 4 16 26 28 32 45 54 55 60 79 
+countries 32 42 55 
+country 28 47 60 70 
+couple 54 
+cover 19 47 57 63 
+coverage 57 
+covering 7 
+covers 5 
+create 3 
+creates 57 
+credence 28 
+credentials 28 
+credit 20 54 57 
+creditor 4 16 60 
+creditors 8 60 
+credits 13 
+crisis 43 47 
+critical 32 55 
+criticism 28 43 
+criticisms 28 
+crop 1 6 
+crowded 79 
+crucial 28 
+crumbling 47 
+crushed 69 
+crushing 69 
+cruzados 1 
+cts 11 12 13 14 18 23 24 27 36 37 38 41 50 53 56 65 66 71 74 
+cumulative 1 15 46 
+curb 61 
+currency 1 47 
+current 4 10 12 16 51 73 79 
+currently 1 61 
+custom 68 
+customer 45 
+customers 20 45 
+cutting 22 
+daily 49 79 
+dairy 18 
+damaging 28 
+data 46 
+day 60 62 
+days 17 49 62 79 
+de 32 55 79 
+de-license 32 55 
+deal 20 26 28 
+dealers 59 
+dealings 28 
+deals 26 
+debt 4 8 16 26 47 60 63 
+debt-rescheduling 26 
+debtors 26 
+decided 79 
+decision 79 
+declarations 75 
+declared 23 43 60 
+decline 12 54 56 
+declined 23 26 80 
+declines 54 
+deduction 61 
+defense 54 72 
+definite 79 
+definitely 54 
+del 60 
+delay 4 12 16 
+delegates 42 75 
+delivered 1 
+delivery 10 
+demand 59 
+demands 79 
+denied 28 
+deny 32 55 
+department 25 46 57 
+depending 45 
+depleting 54 
+deposits 3 
+depreciation 54 
+depressed 4 16 79 
+derive 18 
+design 21 
+designed 61 
+designers 67 
+designs 33 
+desire 26 
+despite 54 
+detailed 6 
+details 26 
+determine 4 16 79 
+develop 21 
+development 32 55 56 
+devloped 39 
+did 15 28 79 
+die 61 
+difficult 28 45 
+dificulties 1 
+dilution 4 16 
+direct 28 
+directly 28 43 
+director 25 
+directors 9 23 
+discard 60 
+disclose 20 26 
+disclosure 20 28 
+discussed 75 
+discussing 45 
+distribution 42 45 50 75 
+div 24 36 37 53 71 
+diversion 32 55 
+diverted 47 
+divided 60 
+dividend 23 24 
+dividends 13 
+division 56 72 
+dlr 7 14 23 26 47 56 60 72 73 79 
+dlrs 1 3 4 7 8 10 11 12 14 16 18 19 23 27 33 34 35 38 40 41 45 47 48 56 57 58 61 62 63 64 65 66 70 74 79 80 
+do 4 16 20 28 32 55 60 
+does 28 45 60 79 
+doing 28 54 79 
+dollar 56 
+dollars 32 45 55 
+domestic 47 
+dominance 28 
+done 43 
+doubt 1 
+doubts 1 
+down 4 16 
+drafting 51 
+dramatic 28 47 
+dramatically 28 
+drop 26 29 54 
+dropped 29 80 
+drought 1 
+dry 1 57 
+due 12 23 26 35 
+durable 54 
+during 46 63 
+each 23 70 
+earlier 1 4 16 18 23 26 28 42 
+early 1 12 18 49 54 79 
+earmarked 57 
+earned 12 45 
+earnings 18 23 40 
+ease 4 16 54 
+easier 26 
+easing 54 
+economist 47 
+economists 54 
+economy 40 47 54 
+edible 57 
+effect 61 
+effective 22 23 
+effects 18 
+effort 3 
+eight 71 
+eight-member 75 
+eights 36 71 
+either 79 
+elected 52 
+elections 28 
+electrical 21 
+eliminate 32 55 
+elite 28 
+else 79 
+emphasis 32 55 
+empire 79 
+employee 61 
+employs 67 
+emulate 26 
+enacted 61 
+encompass 4 16 
+encourage 61 
+end 1 51 54 
+endanger 32 55 
+ended 1 46 47 58 69 80 
+ending 12 18 
+ends 1 28 
+energetic 28 
+energy 68 
+engineering 56 
+enough 18 20 61 79 
+enrolled 51 
+ensure 10 54 
+enter 49 
+entered 5 
+entirely 61 
+entree 79 
+entrepreuers 45 
+entry 18 
+equal 10 39 
+equipment 54 
+equities 4 16 
+equity 4 16 40 
+erodible 51 
+establishment 8 
+estate 61 
+estates 61 
+estimated 1 27 61 
+estimates 1 
+evaluation 17 
+even 4 16 79 
+evening 42 
+evidence 54 
+ex 59 
+example 60 
+examples 45 
+exceed 10 18 
+except 28 
+exchange 15 34 74 79 
+exchangeable 50 
+exclude 13 
+excluding 54 80 
+exclusive 10 21 
+executive 52 
+exercisable 10 
+expand 51 79 
+expanding 51 79 
+expect 4 16 32 55 
+expectations 28 
+expected 1 4 16 23 28 40 44 45 56 
+expecting 28 
+expects 7 18 40 49 
+expenditures 56 
+expenses 12 
+expensive 54 
+experience 18 
+experiencing 1 
+expires 45 
+explore 51 
+export 1 6 19 32 42 55 
+exporters 1 75 
+exports 32 47 55 69 
+extended 46 
+extent 26 
+extraordinary 11 
+fabricator 68 
+facilities 8 21 
+facto 32 55 
+factor 54 
+factors 4 16 
+failing 28 
+failings 43 
+fails 4 16 
+fall 79 
+fallen 28 
+falling 4 16 18 28 54 
+family 79 
+far 54 
+farmer-owned 5 
+farmers 1 
+favorable 29 40 
+federal 61 64 
+feedgrain 5 
+fees 20 
+fell 4 16 48 54 62 80 
+fertilizers 45 
+few 1 
+fibers 39 
+figures 1 6 69 
+file 15 
+filed 3 4 7 16 35 
+final 26 28 46 
+finalized 26 
+finance 7 26 
+financial 4 16 20 
+financing 21 26 63 
+find 45 
+fired 28 
+firm 42 
+firmed 59 
+firms 32 55 69 
+first 12 27 39 47 54 64 
+fiscal 12 18 23 51 56 61 73 
+fit 1 
+fitness 17 
+five 9 10 11 39 59 70 
+five-day 5 
+fix 28 
+fixed 35 47 
+flour 19 
+flow 23 45 
+follow 60 
+follows 5 6 26 75 
+food 18 
+for 1 4 5 6 8 9 10 13 15 16 17 18 19 20 21 23 26 27 28 34 35 40 41 42 43 44 45 46 47 54 56 57 59 60 61 63 64 66 68 69 72 73 74 75 79 
+forces 28 
+foreign 4 16 47 48 60 63 
+foreigners 79 
+form 2 15 19 
+formal 75 
+formed 15 
+former 28 
+formerly 25 74 
+forms 10 
+forsake 28 
+forward 11 
+four 13 19 24 60 61 
+fourth 18 45 56 
+freight 59 
+from 7 8 9 11 13 18 19 23 26 27 28 34 40 42 43 48 50 54 56 60 62 70 75 79 
+froze 47 
+frozen 18 
+full 28 45 
+funds 58 
+further 32 40 47 55 79 
+futurE 6 
+future 10 32 42 55 
+gain 11 64 66 74 
+gains 29 50 54 
+garden 45 
+gas 68 
+general 15 58 
+generated 10 
+generating 21 
+generation 39 
+generations 39 
+get 29 
+give 79 
+given 54 
+global 54 
+gloomy 54 
+go 28 45 79 
+going 1 26 43 
+gone 4 16 
+good 1 28 56 
+goods 54 
+government 28 49 61 63 79 
+governmet 61 
+governors 51 
+govvernment 79 
+grain 5 6 
+grains 6 
+granted 63 70 
+greater 54 
+group 28 29 42 51 68 75 
+groups 79 
+growing 40 
+growth 40 45 54 60 
+guarantee 57 
+guarantees 57 60 
+had 23 28 29 43 45 47 52 60 79 
+hailed 47 
+half 39 
+halt 47 
+hand 28 
+hands 1 45 
+hang 4 16 
+harsh 43 
+harvesting 1 
+has 1 4 8 10 16 18 19 23 25 28 35 39 42 43 44 46 47 52 54 56 60 72 73 79 
+have 1 4 5 8 16 20 26 28 54 57 60 61 79 
+having 3 
+he 28 32 43 51 54 55 60 63 79 
+headed 51 
+heads 79 
+health 17 28 
+heavily 79 
+held 1 45 
+help 10 28 
+herbicides 45 
+heroes 28 
+high 28 45 79 
+high-pressure 68 
+high-strength 39 
+higher 12 32 45 55 
+highest 29 
+him 28 
+his 28 
+hold 79 
+holders 4 16 23 
+holdings 10 
+holds 4 16 
+home 47 70 
+homes 29 
+hope 26 
+hopes 28 
+hotels 7 
+how 1 15 
+however 4 16 61 79 
+hrs 49 
+huge 54 
+humidity 1 
+hundred 1 
+hundreds 32 55 
+i 79 
+identified 28 
+if 4 10 16 28 32 45 55 60 
+ignorant 28 
+immediate 4 16 
+immediately 4 16 22 
+impact 10 
+implementing 17 
+implications 8 
+import 46 
+importers 75 
+imports 46 47 
+impressed 54 
+improve 17 23 
+improved 4 16 23 
+improvement 18 27 
+improvements 10 
+improving 1 54 
+in 1 2 3 4 6 8 9 12 15 16 17 18 19 20 23 26 27 28 29 32 34 39 40 42 43 44 45 46 47 48 49 51 54 55 56 57 58 60 61 62 63 64 67 69 70 73 79 80 
+incentive 26 
+include 8 27 69 74 75 
+included 1 59 
+includes 11 41 42 50 66 
+including 10 12 26 28 34 44 79 
+income 26 50 
+incompetence 28 
+increase 9 10 23 40 51 63 
+increased 47 54 58 
+increasing 59 
+indexation 47 
+indicated 79 
+individual 45 
+individuals 61 
+industrial 80 
+industries 68 
+industry 4 16 
+inflation 47 
+informally 75 
+information 20 
+initial 4 16 33 46 70 
+initially 47 
+initiative 19 28 
+install 79 
+installation 21 
+institutional 58 
+institutions 20 
+intended 20 32 51 55 61 
+interest 2 4 16 20 26 40 60 79 
+interested 28 45 79 
+interests 7 
+intermittently 26 
+interview 60 79 
+into 4 16 28 45 79 
+introduced 20 32 55 61 
+introductions 56 
+invented 39 
+inventory 19 
+invest 54 
+investment 2 21 26 54 
+involved 45 
+involving 10 
+is 1 2 4 8 12 16 17 18 19 20 22 26 28 29 32 33 39 45 47 50 54 55 56 60 61 63 70 79 
+issue 28 
+issued 12 20 70 
+issuers 20 
+issues 4 16 
+it 1 3 4 7 8 10 12 15 16 17 18 19 21 22 26 28 33 34 35 39 40 44 45 47 49 50 54 56 57 61 63 64 67 68 75 
+items 32 55 
+its 1 4 7 8 9 10 12 16 17 18 21 22 23 25 26 27 43 44 47 48 49 56 60 61 62 63 64 68 70 79 
+job 28 32 55 
+joined 25 
+joint 2 79 
+july 1 
+just 28 54 
+keeping 28 
+kilos 1 
+knight 45 
+labels 10 
+lackluster 54 
+land 51 
+language 79 
+languished 45 
+large 4 16 60 79 
+largest 3 45 79 
+last 1 12 18 26 28 40 43 47 60 61 69 79 
+late 1 8 12 18 39 45 
+later 26 
+latest 62 66 
+launch 79 
+launching 79 
+law 51 
+lawn 45 
+lawns 45 
+laws 29 54 
+lb 22 
+lbs 5 
+leading 4 16 32 47 55 
+least 4 16 40 47 
+led 54 
+left 43 
+legislation 20 28 32 51 55 61 
+lengthening 54 
+lent 28 
+less 39 61 
+level 59 
+levels 1 32 55 
+licensee 10 
+licensees 12 
+licensing 18 28 32 55 
+life 27 
+light 1 
+like 28 45 54 
+likely 4 12 16 79 
+limited 1 7 
+limping 47 
+line 17 18 57 
+link 3 
+listing 79 
+lived 79 
+loadings 59 
+loan 7 26 60 62 80 
+loans 4 16 80 
+local 60 
+long 4 16 19 
+longer 4 16 
+longtime 28 
+looking 79 
+lose 4 16 
+loss 13 24 28 37 41 56 64 
+losses 4 16 
+lower 1 4 16 23 59 
+lowered 8 
+lt 2 4 10 16 18 21 25 44 45 50 66 68 79 
+lubricating 68 
+machine 79 
+machinery 54 
+made 1 21 28 29 54 70 
+maintain 60 
+major 4 16 18 79 80 
+make 26 
+makes 10 
+making 1 33 50 79 
+man 28 
+manage 2 15 
+managed 35 70 
+management 2 26 
+managing 25 
+manufacture 68 
+manufactured 70 
+manufactures 33 
+many 15 20 61 
+march 12 
+marine 68 
+market 2 4 10 16 21 58 79 
+market-place 32 55 
+material 20 
+matured 5 
+may 12 28 54 79 
+maybe 45 
+meal 69 
+mean 4 16 79 
+means 1 
+meant 61 
+meet 60 79 
+meeting 9 26 40 42 45 
+member 69 
+members 51 61 69 79 
+merger 25 74 
+met 28 
+metals 39 
+metric 79 
+metropolitan 79 
+micro-utility 21 
+mid-30 45 
+midday 1 
+middle 12 
+middlemen 1 
+military 32 55 
+mill 79 
+minimizing 4 16 
+mln 1 4 7 9 10 11 12 13 14 16 23 24 27 29 33 35 37 38 41 42 45 47 51 56 57 58 61 63 64 65 66 72 73 74 79 80 
+modification 61 
+modify 75 
+moister 39 
+money 2 58 
+month 6 23 28 
+monthly 47 
+months 26 41 42 46 47 56 75 79 
+moratorium 60 
+more 4 16 28 32 54 55 
+mortgage 7 
+most 4 16 28 54 79 
+move 79 
+moves 10 
+mths 13 14 24 66 
+much 1 4 16 28 54 61 
+municipalities 21 
+must 4 16 51 57 
+mutual 58 
+myself 79 
+n't 28 45 54 79 
+n.a 5 
+n.a.-not 5 
+named 1 
+narrower 61 
+national 5 32 55 
+nationally 80 
+nations 60 
+nationwide 35 
+nature 28 
+near 4 16 
+near-record 29 
+nearby 1 
+needed 47 
+needs 63 
+negative 8 
+negotiate 42 
+negotiating 79 
+negotiations 44 60 
+nervous 4 16 
+net 13 41 66 74 
+network 3 
+new 17 23 26 32 39 42 47 54 55 56 57 75 79 
+news 4 16 
+newspaper 79 
+newspapers 79 
+newsprint 79 
+next 28 44 49 54 59 63 79 
+night 26 
+nil 6 13 
+nine 13 23 47 53 
+no 4 16 26 28 34 54 59 
+non-defense 54 
+normal 1 
+not 1 4 10 11 15 16 20 28 29 32 43 45 54 55 60 61 63 79 
+note 28 62 70 
+noted 4 16 45 54 
+notes 35 
+now 1 4 16 47 54 
+number 26 
+numbers 54 
+objective 60 
+observer 60 
+obtain 26 
+obtaining 1 
+occur 10 
+occurred 54 
+of 1 2 3 4 6 7 8 9 10 11 12 13 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 32 33 34 35 37 39 40 41 42 43 44 45 46 47 49 50 51 54 55 56 57 58 59 60 61 63 64 66 68 69 70 72 74 79 80 
+off 4 16 18 43 79 
+offer 1 4 16 19 45 51 
+offered 15 45 59 
+offering 4 7 15 16 17 33 34 35 70 
+offers 45 79 
+office 54 
+official 48 
+officials 45 
+offset 28 64 
+oil 6 26 68 
+oilseeds 6 
+old 1 29 56 
+oldest 70 
+on 1 4 8 16 23 24 26 28 32 34 39 40 42 43 44 45 46 47 50 51 55 56 59 60 61 62 64 73 74 75 79 80 
+once 28 
+one 4 8 10 14 16 23 26 28 37 47 70 71 75 79 
+one-billion-dlr 4 16 
+one-half 70 
+only 1 69 
+open 1 
+opening 45 
+operated 2 
+operating 13 56 62 64 
+operation 10 28 
+operations 23 49 64 
+opinion 28 
+option 70 
+or 11 12 13 15 23 26 27 28 40 41 45 54 56 74 79 
+order 54 
+orders 54 56 
+originally 26 
+other 4 16 26 39 54 79 
+our 18 28 32 55 
+out 28 45 54 
+outlook 4 16 23 54 59 
+outstanding 10 12 80 
+over 1 4 16 26 28 32 54 55 56 61 
+over-allotment 70 
+over-the-counter- 45 
+overall 18 
+oversight 2 
+owed 64 
+own 28 60 
+owned 29 79 
+ownership 61 
+owns 2 79 
+pace 29 56 
+package 26 
+pact 26 
+paid 19 23 
+painted 54 
+panel 26 28 
+paper 68 79 80 
+part 1 4 10 16 25 61 
+particularly 28 54 
+partisan 28 
+partner 15 
+partners 79 
+partnership 7 15 
+party 28 
+past 28 
+pay 10 70 
+payable 23 24 37 70 
+payment 8 13 
+payments 4 16 47 60 
+pays 4 16 
+pct 2 10 12 15 18 23 26 28 29 32 39 40 47 54 55 56 59 60 74 79 
+people 28 54 
+per 1 5 7 10 11 19 33 40 45 50 66 70 74 
+percentage 28 59 
+performance 4 16 18 
+period 1 18 48 56 61 63 
+periods 13 27 
+permit 63 
+personal 28 
+personnel 67 
+pesticides 45 
+petrochemical 68 
+photovoltaic 21 
+physical 17 
+picture 54 
+pipeline 54 64 
+place 26 54 
+plan 2 10 47 61 
+planned 7 
+plans 15 61 79 
+plants 79 
+play 32 55 
+plc 79 
+plead 28 
+plunged 47 
+pockets 60 
+point 28 
+pointed 45 54 
+points 28 54 59 
+polarizations 46 
+policies 28 
+policy 28 
+political 28 
+poll 28 
+polls 28 
+poor 4 16 
+popularity 28 
+portion 4 16 29 60 70 
+ports 1 
+positioned 8 
+positions 28 
+possibility 79 
+possible 79 
+postponed 42 60 
+potential 4 16 
+power 21 28 
+powers 28 
+practically 1 
+predicted 54 
+preferred 4 8 13 15 16 
+prelude 79 
+prepared 28 60 
+presage 54 
+present 42 
+presenting 75 
+president 28 40 52 79 
+presidential 28 
+press 28 
+pressure 4 16 
+prev 6 
+prevented 79 
+preventing 32 55 
+previous 39 46 62 69 
+previously 29 40 54 57 63 
+price 4 5 10 15 16 22 45 
+priced 7 
+prices 1 47 
+primary 54 
+prime 60 
+principle 26 44 
+print 79 
+printers 10 
+printing 79 
+prior 13 18 24 36 37 45 53 71 
+prior-year 56 
+private 28 
+probably 18 79 
+problem 4 16 
+proceed 4 16 63 
+proceeds 7 34 70 
+process 28 32 55 68 79 
+processor 18 
+processors 1 
+produce 60 79 
+producer 42 70 75 
+producers 75 
+producing 42 
+product 10 39 56 
+production 8 54 
+products 6 33 39 
+professional 28 
+profit 8 13 24 37 41 79 
+profits 12 23 45 56 
+program 17 51 63 
+programmers 67 
+programs 17 
+progress 26 
+project 18 67 79 
+projection 18 
+projects 79 
+prolific 8 
+promoting 32 55 61 
+promotional 20 
+proposal 42 61 75 
+proposed 4 7 16 35 61 75 
+prospective 20 
+prospects 1 28 56 
+protect 28 
+protected 28 
+provide 40 67 79 
+provides 18 
+province 79 
+provision 61 
+public 21 28 33 
+published 1 43 
+publishes 79 
+publishing 79 
+pulp 68 79 
+purchase 10 70 
+purchases 19 
+purpose 58 61 
+purusant 74 
+put 4 16 26 
+qtr 11 13 41 74 
+quality 1 
+quarter 4 12 16 18 23 45 54 56 64 
+quarterly 23 
+quarters 54 
+question 28 
+quick 26 28 
+quickly 4 16 54 
+quota 42 46 75 
+quotas 42 
+quoted 59 
+radio 60 79 
+raise 61 
+raising 23 
+range 18 56 
+rate 4 16 26 29 35 45 47 
+rates 5 20 23 26 40 45 59 
+rather 54 
+rating 28 
+ratings 8 
+rational 32 55 
+re-evaluated 4 16 
+reacting 54 
+reaction 4 16 
+ready 45 79 
+real 54 
+reason 54 
+reasons 23 28 
+rebuffed 26 28 
+receive 17 
+received 28 34 46 72 73 
+receives 4 16 
+receiving 34 
+recent 1 4 8 16 56 
+recently 15 34 
+recession 54 
+recieved 79 
+recognize 28 
+recommend 9 
+recommendations 17 
+recommended 4 16 
+record 9 23 24 28 29 37 54 64 
+recorded 40 
+redistributions 42 
+reduce 26 32 55 61 
+reduced 4 16 
+reduces 57 
+reduction 26 
+reflected 54 
+reflects 5 
+refocusing 32 55 
+reform 18 32 54 55 61 
+reforms 32 55 
+refused 43 
+regaining 28 
+registered 1 57 
+registration 7 15 
+registrations 6 
+regularly 45 
+regulatory 44 
+reinforced 54 
+reintroducing 42 
+reject 60 
+rejected 28 
+related 12 
+relatively 28 
+released 28 
+reluctant 1 
+remain 56 
+remaining 28 
+remains 52 
+removal 28 45 
+renegotiating 60 
+reorganization 10 
+repayments 26 
+repeat 47 
+repeated 18 43 
+replace 21 39 
+report 12 17 28 43 49 54 
+reported 5 18 23 40 46 54 56 
+reporters 28 32 55 
+reporting 56 
+reports 12 54 
+representatives 26 
+request 26 60 
+requested 26 28 
+require 20 
+requirements 32 55 
+requiring 20 
+rescheduling 26 
+reserve 5 51 
+reserves 48 63 
+residential 45 
+resign 28 43 
+resigned 28 
+resist 45 
+resources 32 55 
+respective 62 
+response 54 
+restored 1 28 
+restrict 32 55 
+restructured 4 16 
+restructuring 23 41 
+result 60 
+resulted 79 
+results 12 27 
+resumption 75 
+retaining 15 
+retains 28 
+retake 28 
+return 8 50 
+reuter 72 73 
+revenues 61 79 
+reversal 47 
+review 1 
+revised 54 
+revisions 26 
+right 10 28 
+rights 10 
+rise 54 
+river 59 
+role 32 43 55 
+rose 1 54 56 58 62 
+ruling 60 
+run 56 
+running 56 
+said 1 2 3 4 7 8 9 10 12 15 16 17 18 19 20 21 22 23 25 26 28 29 32 33 34 35 39 40 42 43 44 45 46 47 48 49 50 51 52 54 55 56 57 58 59 60 61 62 63 64 67 68 69 70 72 73 75 79 80 
+sale 10 19 66 
+sales 1 12 18 23 29 57 61 
+same 1 18 59 61 62 
+savaged 28 
+save 32 55 
+saviour 47 
+say 15 28 45 79 
+says 28 
+scandal 43 
+scarred 43 
+scheduled 42 45 60 
+schedules 26 54 
+season 1 
+seasonally 29 
+second 23 56 60 79 
+second-largest 79 
+section 59 
+sector 54 
+securities 4 8 15 16 
+security 32 55 
+see 54 
+seeking 29 63 
+seemed 47 
+seems 1 
+seen 4 16 
+segment 8 
+self-contained 21 
+sell 4 16 61 
+sellers 29 
+selling 1 34 
+senator 28 
+senior 8 26 61 
+sent 20 
+service 4 16 44 47 66 
+session 59 75 
+set 26 29 46 
+seven 8 12 13 23 56 61 
+several 26 
+sevice 45 
+sham 61 
+share 10 12 18 23 33 34 40 41 45 56 66 70 74 
+share-out 75 
+shareholder 18 
+shareholders 9 34 37 40 
+shares 9 10 23 33 34 45 
+shipment 1 19 
+shipments 6 54 
+shipped 57 
+shippers 1 
+ships 49 59 
+shock 4 16 26 
+shop 20 
+short 28 46 79 
+shortage 79 
+shortages 47 
+shortfall 42 75 
+shortly 28 
+shot 45 
+should 18 32 54 55 60 
+show 4 6 16 
+showed 28 
+showing 6 
+shr 11 13 27 66 
+shrs 13 38 65 66 
+sign 54 
+signed 26 67 
+significant 8 29 
+similar 4 16 39 
+since 1 28 29 43 47 
+situation 47 
+six 13 56 79 
+sixth 79 
+skirts 28 
+slate 43 
+slightly 18 
+slowdown 54 
+slowed 45 
+sluggish 54 
+small 79 
+so 54 
+soaring 47 
+software 67 
+sold 1 10 33 35 64 
+solicitation 20 
+some 1 26 28 34 
+something 79 
+somewhat 28 
+sons 79 
+sorry 28 
+sought 26 
+sources 21 
+south 59 
+soybean 69 
+soybeans 69 
+special 41 50 
+specialists 67 
+specialized 68 
+specify 4 16 
+spending 54 
+splinter 75 
+split 9 23 
+spokesman 4 16 
+spokeswoman 45 
+spot 1 
+staff 28 
+stage 1 
+stake 15 79 
+stamp 26 
+standing 1 4 16 28 
+stands 4 16 
+starting 79 
+statement 7 15 20 45 61 62 63 
+station 59 60 
+stations 79 
+statistical 48 
+steady 59 
+steel 8 39 
+steering 60 
+stiffer 39 
+still 1 26 28 75 
+stock 4 8 9 10 12 16 23 33 34 45 61 79 
+stockholders 24 33 
+stocks 4 16 
+story 28 
+strategist 28 
+stream 79 
+street 28 
+strength 54 
+stressed 54 
+striking 26 
+strong 23 28 45 56 
+stronger 39 
+studies 79 
+study 28 
+subject 44 46 
+subordinated 35 70 
+subproducts 6 
+subsidiary 2 22 44 56 
+subsidized 79 
+substantially 12 23 
+succeeding 52 
+successes 26 
+such 21 32 55 
+sudden 26 
+sufficient 47 63 
+sugar 46 
+suggests 28 54 
+superior+ 1 
+supervisors 67 
+supply 59 
+support 28 67 79 
+supporter 28 
+supporting 28 
+surgery 28 
+surplus 47 
+surpluses 47 
+surprise 45 54 
+surprising 29 
+surveyed 28 
+suspend 60 
+suspended 4 16 
+suspension 26 
+swift 26 
+switched 57 
+system 17 45 
+systems 21 68 
+tabloid 79 
+tags 10 
+taint 28 
+take 60 79 
+takeover 4 16 
+taking 4 16 
+talking 54 
+talks 26 60 75 
+target 47 
+targeted 60 
+targets 60 
+tariff 59 
+tax 11 18 23 29 41 54 61 62 
+taxes 61 64 
+teamed 79 
+technical 67 
+technolgy 10 
+technology 10 32 55 
+telephone 60 
+televised 28 
+temporao 1 
+temporary 63 
+tender 45 
+term 4 16 79 
+terminal 64 
+terminals 10 
+terms 20 26 
+territory 66 
+than 4 12 16 27 28 39 45 47 54 61 
+that 1 4 12 16 18 26 28 29 32 43 45 46 49 54 55 60 61 64 79 
+the 1 2 3 4 5 7 8 9 10 12 15 16 17 18 19 20 21 23 25 26 28 29 32 33 34 35 39 40 43 44 45 46 47 48 49 51 54 55 56 57 58 59 60 61 62 63 64 68 69 70 72 73 74 75 79 80 
+their 1 6 17 20 26 28 32 34 55 60 75 79 
+then 47 
+there 1 28 45 47 49 54 63 79 
+thereafter 70 
+these 12 21 54 
+they 2 4 16 28 32 42 45 51 54 55 61 75 
+think 45 79 
+third 23 
+third-quarter 18 
+this 1 4 12 16 26 28 42 54 59 79 
+those 6 8 18 26 28 34 59 
+though 34 
+thought 28 54 
+thousand 1 
+thousands 6 32 45 55 
+threat 4 16 
+three 26 37 41 46 79 
+three-for-two 23 
+three-member 28 
+through 4 5 16 35 
+throughout 1 
+ticket 10 
+tighten 54 
+time 4 10 16 20 49 79 
+times 1 39 45 
+to 1 2 3 4 6 7 8 9 10 12 15 16 17 18 19 20 21 22 23 24 26 28 29 32 37 39 40 42 43 44 45 46 47 48 49 51 54 55 56 57 58 59 60 61 62 63 66 67 70 74 75 79 80 
+today 23 26 28 43 45 49 59 60 61 
+together 79 
+told 18 28 32 40 51 55 60 79 
+tomorrow 42 49 75 
+tonight 75 
+tonne 1 79 
+tonnes 6 19 69 79 
+tons 19 46 79 
+too 18 54 61 
+took 54 
+top 28 
+total 1 6 10 54 69 79 
+totaled 46 62 
+totalling 42 
+totally 45 
+towards 47 
+trade 47 
+traded 4 16 59 
+trading 45 79 
+transaction 64 
+transactions 61 
+transfer 44 
+transferring 61 
+translate 54 
+translated 28 
+travelling 43 
+treasury 63 
+treatment 29 
+tremendous 79 
+tropical 72 
+truly 32 55 
+try 42 45 
+tumor 28 
+turnaround 28 
+twenty 28 
+two 13 26 37 45 49 56 79 
+two-fold 32 55 
+two-for-one 9 
+types 4 16 79 
+typically 12 
+unable 45 
+unchanged 42 
+under 1 2 4 10 16 29 47 54 57 63 67 
+undermine 28 
+understand 28 
+undertaking 42 
+underwent 28 
+underwriters 34 35 70 
+unduly 32 55 
+unemployment 79 
+unilateral 26 
+unit 7 21 25 29 50 70 
+units 7 8 15 29 64 70 
+universal 27 
+unless 54 
+unsecured 8 
+until 42 70 
+up 4 8 10 16 18 26 28 29 39 40 42 45 51 56 59 79 
+upper 28 
+upwards 54 
+us 18 28 
+use 17 60 63 70 
+used 7 39 54 
+uses 79 
+using 21 
+utility 21 68 
+valuable 45 
+value 47 56 
+variety 39 
+various 18 44 
+vegetable 18 
+venture 2 79 
+ventures 79 
+versus 46 59 
+very 54 
+vessel 59 
+vessels 68 
+veto 28 32 55 
+vice 52 
+view 1 54 
+visit 43 
+volatile 54 
+voted 9 
+voters 28 
+vs 11 13 14 24 27 36 37 38 41 53 65 66 69 71 74 
+wait 54 
+waiting 49 79 
+waits 4 16 
+want 45 
+wants 45 
+warned 28 
+warrant 70 
+warrants 10 
+was 1 4 15 16 18 19 25 26 28 29 34 39 40 43 45 46 47 49 54 60 61 63 69 79 
+wash-out 54 
+wastes 45 
+way 4 16 28 61 
+we 4 16 18 28 32 54 55 79 
+weakening 54 
+wealthy 61 
+week 1 4 16 28 44 46 58 59 60 69 79 80 
+week-long 43 
+weekly 1 46 48 79 
+weeks 1 4 16 
+weight 46 
+well 4 12 16 
+went 1 28 
+were 1 6 10 28 45 47 60 69 70 79 
+what 4 15 16 
+wheat 5 6 19 
+wheat/barley 5 
+when 4 16 28 45 46 61 63 79 
+where 32 55 79 
+whether 18 28 45 79 
+which 1 2 4 16 26 28 39 42 46 50 54 60 61 63 67 75 79 
+while 4 16 32 55 
+white 45 57 
+who 17 28 34 45 52 79 
+widespread 28 47 
+wieght 39 
+will 1 2 4 7 12 15 16 17 18 19 26 28 32 35 42 45 54 55 56 63 64 67 70 75 79 
+wipe 43 
+with 1 3 4 7 12 15 16 20 28 35 42 45 46 47 48 54 59 60 61 62 63 69 70 75 79 
+withdrawing 4 16 
+within 44 47 79 
+wo 28 
+won 79 
+work 73 
+worked 47 
+worker 61 
+works 28 
+world 32 55 
+worldwide 10 
+worse 47 
+would 1 3 4 10 12 15 16 18 23 42 43 44 45 51 61 63 75 79 
+writing 61 
+yards 72 
+year 1 4 12 16 18 23 26 27 40 45 46 47 48 54 56 61 69 73 79 
+year-ago 18 69 
+years 10 18 26 61 79 
+yesterday 58 59 
+yet 4 16 
+your 43 
+yr 24 74 
+zone 1 
